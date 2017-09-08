@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lampen>
+
+	<!-- IKEA PS 2014 -->
+	<modell>
+		<name>IKEA PS 2014</name>
+		<farbe>Hängeleuchte, weiß,  türkis</farbe>
+		<artikelnummer>40251119</artikelnummer>
+		<gerätenummer>T1231</gerätenummer>
+	</modell>
+	<modell>
+		<name>IKEA PS 2014</name>
+		<farbe>Hängeleuchte, weiß,  orange</farbe>
+		<artikelnummer>30279883</artikelnummer>
+		<gerätenummer>T1231</gerätenummer>
+	</modell>
+	<modell>
+		<name>IKEA PS 2014</name>
+		<farbe>Hängeleuchte, weiß, kupferfarben</farbe>
+		<artikelnummer>10311488</artikelnummer>
+		<gerätenummer>T1231-1</gerätenummer>
+	</modell>
+	<modell>
+		<name>IKEA PS 2014</name>
+		<farbe>Hängeleuchte, weiß, silberfarben</farbe>
+		<artikelnummer>90311494</artikelnummer>
+		<gerätenummer>T1231-1</gerätenummer>
+	</modell>
+	<modell>
+		<name>IKEA PS 2014</name>
+		<farbe>Hängeleuchte, weiß,  silberfarben</farbe>
+		<artikelnummer>20304901</artikelnummer>
+		<gerätenummer>T1508-1</gerätenummer>
+	</modell>
+	<modell>
+		<name>IKEA PS 2014</name>
+		<farbe>Hängeleuchte, weiß,  kupferfarben</farbe>
+		<artikelnummer>40304900</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+
+	<!-- IKEA PS 2017 -->
+	<modell>
+		<name>IKEA PS 2017</name>
+		<farbe>Standleuchte, dunkelblau</farbe>
+		<artikelnummer>50333799</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>IKEA PS 2017</name>
+		<farbe>Tischleuchte, gelb</farbe>
+		<artikelnummer>50333803</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>IKEA PS 2017</name>
+		<farbe>Tischleuchte, weiß</farbe>
+		<artikelnummer>60349610</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>IKEA PS 2017</name>
+		<farbe>Standleuchte, LED, dimmbar, weiß</farbe>
+		<artikelnummer>30333795</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+
+	<!-- STOCKHOLM -->
+	<modell>
+		<name>STOCKHOLM 2017</name>
+		<farbe>Standleuchte, verchromt</farbe>
+		<artikelnummer>50343538</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>STOCKHOLM 2017</name>
+		<farbe>Tischleuchte, verchromt</farbe>
+		<artikelnummer>30343539</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>STOCKHOLM</name>
+		<farbe>Hängeleuchte, weiß</farbe>
+		<artikelnummer>00228606</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>STOCKHOLM</name>
+		<farbe>Standleuchte, weiß</farbe>
+		<artikelnummer>90291127</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>STOCKHOLM</name>
+		<farbe>Kronleuchter</farbe>
+		<artikelnummer>30228619</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+
+	<!-- HOVNÄS -->
+	<modell>
+		<name>HOVNÄS</name>
+		<farbe>Standleuchte</farbe>
+		<artikelnummer>90302871</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>HOVNÄS</name>
+		<farbe>Tischleuchte</farbe>
+		<artikelnummer>80302881</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+
+	<!-- MASKROS -->
+	<modell>
+		<name>MASKROS</name>
+		<farbe>Hängeleuchte</farbe>
+		<artikelnummer>30190447</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>IKEA PS MASKROS</name>
+		<farbe>Hängeleuchte</farbe>
+		<artikelnummer>80146249</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+
+	<!-- HEKTAR -->
+	<modell>
+		<name>HEKTAR</name>
+		<farbe>Hängeleuchte, dunkelgrau</farbe>
+		<artikelnummer>60215205</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>HEKTAR</name>
+		<farbe>Hängeleuchte, dunkelgrau</farbe>
+		<artikelnummer>40296108</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>HEKTAR</name>
+		<farbe>Standleuchte, dunkelgrau</farbe>
+		<artikelnummer>00215307</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>HEKTAR</name>
+		<farbe>Standleuchte mit 3er-Spot, dunkelgrau</farbe>
+		<artikelnummer>60323484</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>HEKTAR</name>
+		<farbe>Arbeitsleuchte, dunkelgrau</farbe>
+		<artikelnummer>90349374</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>HEKTAR</name>
+		<farbe>Arbeitsleuchte mit Ladefunktion, dunkelgrau</farbe>
+		<artikelnummer>60323436</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>HEKTAR</name>
+		<farbe>Hängeleuchte, weiß</farbe>
+		<artikelnummer>20326253</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>HEKTAR</name>
+		<farbe>Hängeleuchte, weiß</farbe>
+		<artikelnummer>90326259</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>HEKTAR</name>
+		<farbe>Standleuchte, weiß</farbe>
+		<artikelnummer>90323473</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>HEKTAR</name>
+		<farbe>Standleuchte mit 3er-Spot, weiß</farbe>
+		<artikelnummer>00335932</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>HEKTAR</name>
+		<farbe>Arbeitsleuchte, weiß</farbe>
+		<artikelnummer>80349384</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>HEKTAR</name>
+		<farbe>Arbeitsleuchte mit Ladefunktion, weiß</farbe>
+		<artikelnummer>10335941</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+
+	<!-- Arstid -->
+	<modell>
+		<name>ÅRSTID</name>
+		<farbe>Standleuchte, Messing, weiß</farbe>
+		<artikelnummer>00321317</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>ÅRSTID</name>
+		<farbe>Standleuchte, vernickelt, weiß</farbe>
+		<artikelnummer>60163862</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>ÅRSTID</name>
+		<farbe>Standleuchte, vernickelt, weiß</farbe>
+		<artikelnummer>60163862</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+
+	<!-- Ranarp -->
+	<modell>
+		<name>RANARP</name>
+		<farbe>Stand-/Leseleuchte, elfenbeinweiß</farbe>
+		<artikelnummer>20231306</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>RANARP</name>
+		<farbe>Arbeitsleuchte, elfenbeinweiß</farbe>
+		<artikelnummer>30231315</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>RANARP</name>
+		<farbe>Deckenschiene 3 Spots, elfenbeinweiß weiß</farbe>
+		<artikelnummer>90340458</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>RANARP</name>
+		<farbe>Hängeleuchte, elfenbeinweiß</farbe>
+		<artikelnummer>60256494</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>RANARP</name>
+		<farbe>Stand-/Leseleuchte, schwarz</farbe>
+		<artikelnummer>90331374</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>RANARP</name>
+		<farbe>Arbeitsleuchte, schwarz</farbe>
+		<artikelnummer>50331385</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>RANARP</name>
+		<farbe>Hängeleuchte, schwarz</farbe>
+		<artikelnummer>80329630</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+
+	<!-- Sinnerlig -->
+	<modell>
+		<name>SINNERLIG</name>
+		<farbe>Hängeleuchte, Bambus</farbe>
+		<artikelnummer>70311697</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>SINNERLIG</name>
+		<farbe>Tischleuchte, Frostglas, Kork</farbe>
+		<artikelnummer>50305777</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+
+	<!-- Klabb -->
+	<modell>
+		<name>KLABB</name>
+		<farbe>Standleuchte, elfenbeinweiß</farbe>
+		<artikelnummer>10207057</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>KLABB</name>
+		<farbe>Standleuchte, hellbraun</farbe>
+		<artikelnummer>20268696</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>KLABB</name>
+		<farbe>Tischleuchte, elfenbeinweiß</farbe>
+		<artikelnummer>40280225</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>KLABB</name>
+		<farbe>Tischleuchte, hellbraun</farbe>
+		<artikelnummer>60268736</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>KLABB</name>
+		<farbe>Tischleuchte, elfenbeinweiß, vernickelt</farbe>
+		<artikelnummer>10333838</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>KLABB</name>
+		<farbe>Tischleuchte, türkis</farbe>
+		<artikelnummer>30268728</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>KLABB</name>
+		<farbe>Tischleuchte, hellbraun, vernickelt</farbe>
+		<artikelnummer>70346319</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>KLABB</name>
+		<farbe>Tischleuchte, türkis, vernickelt</farbe>
+		<artikelnummer>50333841</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+
+	<!-- Nymane -->
+	<modell>
+		<name>NYMÅNE</name>
+		<farbe>Hängeleuchte, weiß</farbe>
+		<artikelnummer>70336264</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>NYMÅNE</name>
+		<farbe>Deckenspot/4 Spots, weiß</farbe>
+		<artikelnummer>70337701</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>NYMÅNE</name>
+		<farbe>Deckenspot/3 Spots, weiß</farbe>
+		<artikelnummer>00336267</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>NYMÅNE</name>
+		<farbe>Hängeleuchte, schwarz</farbe>
+		<artikelnummer>60381134</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>NYMÅNE</name>
+		<farbe>Hängeleuchte, rot</farbe>
+		<artikelnummer>20361307</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+
+	<!-- Böja -->
+	<modell>
+		<name>BÖJA</name>
+		<farbe>Hängeleuchte, Rattan Bambus</farbe>
+		<artikelnummer>40152280</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>BÖJA</name>
+		<farbe>Tischleuchte, vernickelt, Bambus Rattan</farbe>
+		<artikelnummer>60152279</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>BÖJA</name>
+		<farbe>Standleuchte, vernickelt, Bambus Rattan</farbe>
+		<artikelnummer>80152278</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+
+	<!-- Södersvik -->
+	<modell>
+		<name>SÖDERSVIK</name>
+		<farbe>Wandleuchte, LED</farbe>
+		<artikelnummer>50248070</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>SÖDERSVIK</name>
+		<farbe>Deckenleuchte, LED</farbe>
+		<artikelnummer>50248065</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>SÖDERSVIK</name>
+		<farbe>Schrank-/Wandleuchte, LED</farbe>
+		<artikelnummer>40248075</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+
+	<!-- Aläng -->
+	<modell>
+		<name>ALÄNG</name>
+		<farbe>Standleuchte, vernickelt, weiß</farbe>
+		<artikelnummer>20029149</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>ALÄNG</name>
+		<farbe>Tischleuchte, vernickelt, weiß</farbe>
+		<artikelnummer>90029160</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+
+	<!-- Vindkäre -->
+	<modell>
+		<name>VINDKÅRE</name>
+		<farbe>Hängeleuchte, kupferfarben</farbe>
+		<artikelnummer>10323085</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+
+	<!-- Älvsbyn -->
+	<modell>
+		<name>ÄLVSBYN</name>
+		<farbe>Kronleuchter, LED, weiß</farbe>
+		<artikelnummer>30261982</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+
+	<!-- Holkya -->
+	<modell>
+		<name>HOLKYA</name>
+		<farbe>Standleuchte, kupferfarben, Stahl</farbe>
+		<artikelnummer>30326276</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>HOLKYA</name>
+		<farbe>Tischleuchte, kupferfarben, Stahl</farbe>
+		<artikelnummer>30326281</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+
+	<!-- Nyfors -->
+	<modell>
+		<name>NYFORS</name>
+		<farbe>Standleuchte, vernickelt weiß</farbe>
+		<artikelnummer>90303106</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>NYFORS</name>
+		<farbe>Tischleuchte, vernickelt weiß</farbe>
+		<artikelnummer>00303115</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+
+	<!-- Bäve -->
+	<modell>
+		<name>BÄVE</name>
+		<farbe>Deckenschiene 5 Spots, LED, weiß</farbe>
+		<artikelnummer>10340457</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>BÄVE</name>
+		<farbe>Deckenschiene 3 Spots, LED, weiß</farbe>
+		<artikelnummer>40237642</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+
+	<!-- Samtid -->
+	<modell>
+		<name>SAMTID</name>
+		<farbe>Stand-/Leseleuchte, vernickelt, weiß</farbe>
+		<artikelnummer>20286563</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+
+	<!-- Ottava -->
+	<modell>
+		<name>OTTAVA</name>
+		<farbe>Hängeleuchte, Aluminium</farbe>
+		<artikelnummer>30147166</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+
+	<!-- Älvängen -->
+	<modell>
+		<name>ÄLVÄNGEN</name>
+		<farbe>2er-Hängeleuchte, weiß</farbe>
+		<artikelnummer>90263285</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>ÄLVÄNGEN</name>
+		<farbe>Standleuchte, weiß</farbe>
+		<artikelnummer>50263254</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>ÄLVÄNGEN</name>
+		<farbe>Hängeleuchte, weiß</farbe>
+		<artikelnummer>00263280</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+
+	<!-- Torsbo -->
+	<modell>
+		<name>TORSBO</name>
+		<farbe>Tischleuchte, elfenbeinweiß</farbe>
+		<artikelnummer>70238292</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+
+	<!-- Lyrik -->
+	<modell>
+		<name>LYRIK</name>
+		<farbe>Tischleuchte</farbe>
+		<artikelnummer>60195976</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+
+	<!-- Rickrum -->
+	<modell>
+		<name>RICKARUM</name>
+		<farbe>Tischleuchte, silberfarben</farbe>
+		<artikelnummer>90302791</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>RICKARUM</name>
+		<farbe>Tischleuchte, silberfarben</farbe>
+		<artikelnummer>80349534</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>RICKARUM</name>
+		<farbe>Tischleuchte, weis</farbe>
+		<artikelnummer>80357901</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+
+	<!-- Foramt -->
+	<modell>
+		<name>FORMAT</name>
+		<farbe>Stand-/Leseleuchte, vernickelt</farbe>
+		<artikelnummer>80149889</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>FORMAT</name>
+		<farbe>Arbeitsleuchte, vernickelt</farbe>
+		<artikelnummer>40063986</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+
+	<!-- Rymden -->
+	<modell>
+		<name>RYMDEN</name>
+		<farbe>Deckenschiene 3 Spots, LED, vernickelt</farbe>
+		<artikelnummer>50228595</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+
+	<!-- Uppbo -->
+	<modell>
+		<name>UPPBO</name>
+		<farbe>Stand-/Leseleuchte, schwarz</farbe>
+		<artikelnummer>60353225</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>UPPBO</name>
+		<farbe>Arbeitsleuchte, schwarz</farbe>
+		<artikelnummer>20353213</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+
+	<!-- Barometer -->
+	<modell>
+		<name>BAROMETER</name>
+		<farbe>Stand-/Leseleuchte, vernickelt</farbe>
+		<artikelnummer>40089571</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>BAROMETER</name>
+		<farbe>Arbeitsleuchte, vernickelt</farbe>
+		<artikelnummer>70089579</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>BAROMETER</name>
+		<farbe>Deckenschiene 5 Spots, vernickelt</farbe>
+		<artikelnummer>80262578</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+
+	<!-- Aröd-->
+	<modell>
+		<name>ARÖD</name>
+		<farbe>Stand-/Leseleuchte, grau</farbe>
+		<artikelnummer>50147783</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>ARÖD</name>
+		<farbe>Arbeitsleuchte, grau</farbe>
+		<artikelnummer>30147784</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+
+	<!-- Antifoni -->
+	<modell>
+		<name>ANTIFONI</name>
+		<farbe>Stand-/Leseleuchte, vernickelt</farbe>
+		<artikelnummer>40304735</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>ANTIFONI</name>
+		<farbe>Arbeitsleuchte, vernickelt</farbe>
+		<artikelnummer>20304736</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+
+	<!-- Stäkra -->
+	<modell>
+		<name>STÄKRA</name>
+		<farbe>Hängeleuchte, kupferfarben</farbe>
+		<artikelnummer>60324228</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+
+	<!-- Lunta -->
+	<modell>
+		<name>IKEA 365+ LUNTA</name>
+		<farbe>Standleuchte, verchromt</farbe>
+		<artikelnummer>20148840</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+
+	<!-- Varv -->
+	<modell>
+		<name>VARV</name>
+		<farbe>Tischleuchte mit Ladefunktion</farbe>
+		<artikelnummer>80280704</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>VARV</name>
+		<farbe>Tischleuchte mit Ladefunktion</farbe>
+		<artikelnummer>40304047</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>VARV</name>
+		<farbe>Standleuchte m kabl. Ladefunkt.</farbe>
+		<artikelnummer>10280694</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>VARV</name>
+		<farbe>Standleuchte m kabl. Ladefunkt.</farbe>
+		<artikelnummer>30304038</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+
+	<!-- Floalt -->
+	<modell>
+		<name>FLOALT</name>
+		<farbe>LED-Lichtpaneel, dimmbar, Weißspektrum</farbe>
+		<artikelnummer>40332210</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>FLOALT</name>
+		<farbe>LED-Lichtpaneel, dimmbar, Weißspektrum</farbe>
+		<artikelnummer>30303072</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>FLOALT</name>
+		<farbe>LED-Lichtpaneel, dimmbar, Weißspektrum</farbe>
+		<artikelnummer>10302969</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+
+	<!-- Gothem -->
+	<modell>
+		<name>GOTHEM</name>
+		<farbe>Standleuchtenfuß</farbe>
+		<artikelnummer>20360685</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>GOTHEM</name>
+		<farbe>Tischleuchtenfuß</farbe>
+		<artikelnummer>60360674</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+
+	<!-- Fuga -->
+	<modell>
+		<name>FUGA</name>
+		<farbe>Deckenspot/4 Spots, verchromt, Klarglas</farbe>
+		<artikelnummer>40262622</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>FUGA</name>
+		<farbe>Decken-/Wandleuchte, verchromt, Klarglas</farbe>
+		<artikelnummer>30262627</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+
+	<!-- Fubbla -->
+	<modell>
+		<name>FUBBLA</name>
+		<farbe>Arbeitsleuchte, weiß</farbe>
+		<artikelnummer>40325709</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+
+	<!-- Rodd -->
+	<modell>
+		<name>RODD</name>
+		<farbe>Standleuchtenfuß, schwarz</farbe>
+		<artikelnummer>40192399</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>RODD</name>
+		<farbe>Standleuchtenfuß, weis</farbe>
+		<artikelnummer>80302678</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>RODD</name>
+		<farbe>Standleuchtenfuß, vernickelt</farbe>
+		<artikelnummer>60192402</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>RODD</name>
+		<farbe>Standleuchtenfuß, messingfarben</farbe>
+		<artikelnummer>70302688</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+
+	<!-- Lauters -->
+	<modell>
+		<name>LAUTERS</name>
+		<farbe>Standleuchtenfuß, braun</farbe>
+		<artikelnummer>40302939</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+	<modell>
+		<name>LAUTERS</name>
+		<farbe>Tischleuchtenfuß, braun</farbe>
+		<artikelnummer>80302956</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+
+	<!-- Örtofta -->
+	<modell>
+		<name>ÖRTOFTA</name>
+		<farbe>Kronleuchter</farbe>
+		<artikelnummer>90245569</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+
+	<!-- Ekarp -->
+	<modell>
+		<name>EKARP</name>
+		<farbe>Standleuchtenfuß, vernickelt</farbe>
+		<artikelnummer>00180204</artikelnummer>
+		<gerätenummer>a5678</gerätenummer>
+	</modell>
+
+</lampen>
+
+
+
+
+
